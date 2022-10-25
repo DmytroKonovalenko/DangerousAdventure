@@ -13,4 +13,5 @@
 ## Pause menu
 ![Pause menu](https://raw.githubusercontent.com/DmytroKonovalenko/DangerousAdventure/main/2D%20Project/Image/Screenshot_4.png)
 
-![]()
+## Setting window
+![Setting window](https://raw.githubusercontent.com/DmytroKonovalenko/DangerousAdventure/main/2D%20Project/Image/Screenshot_5.png)
