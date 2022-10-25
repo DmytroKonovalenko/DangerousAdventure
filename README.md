@@ -7,7 +7,8 @@
 ## Game window
 ![GameWindow](https://raw.githubusercontent.com/DmytroKonovalenko/DangerousAdventure/main/2D%20Project/Image/Screenshot_2.png)
 
-![]()
+## Inventory window
+![Inventory window](https://raw.githubusercontent.com/DmytroKonovalenko/DangerousAdventure/main/2D%20Project/Image/Screenshot_3.png)
 
 ![]()
 
